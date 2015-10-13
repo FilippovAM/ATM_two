@@ -1002,9 +1002,15 @@ a.button-member-login{
 .vertical_nav{
     margin-bottom: 15px;
     margin-top: 15px;
-    width: 350px;
+    width: 280px;
     background: white;
 }
+
+.vertical_nav__opened{
+    width: 310px;
+}
+
+
 
 .menu--item{
     background: #0191D3;
@@ -1129,7 +1135,7 @@ a.button-member-login{
 }
 
 .members_info_main{
-    margin-left: 380px;
+    margin-left: 310px;
 
     -webkit-transition:  all 0.3s ease-in-out;
     -moz-transition: all 0.3s ease-in-out;
