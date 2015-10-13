@@ -1,0 +1,214 @@
+.pre_header{
+    padding: 15px 0;
+}
+
+.header_text_list{
+    text-transform: uppercase;
+    font-size: 11px;
+    display: inline-block;
+}
+
+.header_text_list:after{
+    padding-left: 10px;
+    content: '';
+    border-right: 1px solid #93a6b0;;
+}
+
+.pre_header_right_column{
+    text-align: right;
+}
+
+.pre_header_right_column a i{
+    font-size: 19px;
+
+    -webkit-transition: color ease-in-out .15s;
+    -moz-transition: color ease-in-out .15s;
+    -o-transition: color ease-in-out .15s;
+    transition: color ease-in-out .15s;
+}
+
+.pre_header a[title="ATM"], .pre_header .navbar-header{
+    float: left;
+}
+
+
+.pre_header_right_column a:hover .icon-facebook{
+    color: #0182c4;
+}
+
+.pre_header_right_column a:hover .icon-skype{
+    color: #40bef6;
+}
+
+.pre_header_right_column a:hover .icon-twitter{
+    color: rgba(50, 204, 254, 0.58);
+}
+
+.pre_header_right_column a:hover .icon-google{
+    color: #d44132;
+}
+
+.pre_header_right_column a:hover .icon-linkedin{
+    color: #359dd1;
+}
+
+.lower_header{
+    z-index: 100;
+    position: relative;
+    padding: 15px 0;
+
+    background-color: rgba(255, 255, 255, .67);
+    border-bottom: 1px solid rgba(245, 245, 245, 0.5);
+
+    -webkit-transition: background-color ease-in-out .15s;
+    -moz-transition: background-color ease-in-out .15s;
+    -o-transition: background-color ease-in-out .15s;
+    transition: background-color ease-in-out .15s;
+}
+
+.lower_logo{
+    display: none;
+}
+
+.nav_header li{
+    display: inline-block;
+    margin-left: 30px;
+    text-align: left;
+
+    -webkit-transition: background-color, padding ease-in-out .15s;
+    -moz-transition: background-color, padding ease-in-out .15s;
+    -o-transition: background-color, padding ease-in-out .15s;
+    transition: background-color, padding ease-in-out .15s;
+}
+
+.nav_header a{
+    color: #23323a;
+    font-size: 14px;
+    text-transform: uppercase;
+}
+
+.nav_header li:first-child{
+    margin-left: 0;
+}
+
+.search_box{
+    position: relative;
+    float: right;
+    text-align: right;
+}
+
+.search_box form{
+    position: absolute;
+    display: none;
+    top: 100%;
+    margin-top: 21px;
+    right: 0;
+    vertical-align: top;
+    box-shadow: 0 0 5px #ddd;
+    -webkit-box-shadow: 0 0 5px #ddd;
+    -moz-box-shadow: 0 0 5px #ddd;
+    padding-right: 50px;
+}
+
+.search_box_opened form{
+    display: block;
+    -webkit-animation: fadeInUp .4s;
+    animation: fadeInUp .4s;
+    -webkit-animation-iteration: forwards;
+    animation-iteration: forwards;
+}
+
+
+.search_box form .icon:before{
+    position: absolute;
+    display: block;
+    content: '';
+    top: -12px;
+    right: 15px;
+    border-style: solid;
+    border-width: 0 0 15px 20px;
+    border-color: transparent transparent #23323a;
+
+    -webkit-transition: border .3s;
+    -moz-transition: border .3s;
+    -o-transition: border .3s;
+    transition: border .3s;
+}
+
+.search_box input{
+    height: 50px;
+    border: none;
+    padding: 10px;
+    width: 200px;
+}
+
+.iconic-submit{
+    display: inline-block;
+    vertical-align: top;
+    margin-left: -3px;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
+.iconic-submit .icon{
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 50px;
+    height: 50px;
+    background: #23323a;
+    color: #fff;
+    text-align: center;
+    -webkit-transition: background .3s;
+    -moz-transition: background .3s;
+    -o-transition: background .3s;
+    transition: background .3s;
+}
+
+.iconic-submit .icon-search{
+    color: #fff;
+    text-align: center;
+    position: relative;
+    left: 0;
+    top: 12px;
+}
+
+.iconic-submit input{
+    width: 50px;
+    height: 50px;
+    z-index: 99999;
+}
+
+.iconic-submit input[type="submit"]{
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 40px;
+    height: 100%;
+    bottom: 0;
+    background: transparent;
+    border: none;
+    opacity: 0;
+    -moz-opacity: 0;
+    -khtml-opacity: 0;
+    -ms-filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=0);
+    filter: alpha(opacity=0);
+    z-index: 10;
+}
+
+.iconic-submit:hover .icon{
+    background: #0077b4;
+}
+
+.iconic-submit:hover .icon:before{
+    border-color: transparent transparent #0077b4;
+}
+
+.toogle_container{
+    position: relative;
+    height: 50px;
+    display: none;
+}
+
+

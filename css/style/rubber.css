@@ -1,0 +1,279 @@
+@media screen and (max-width: 1200px){
+    .members_info_main{
+        margin-left: 0;
+    }
+
+    .members_info_container .menu--item{
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+
+    .toogle_container{
+        display: block;
+    }
+
+    .chart_one{
+        margin-left: -1%;
+        height: 500px !important;
+    }
+
+    .box-view{
+        height: 550px !important;
+    }
+
+    .members_info_container{
+        padding-top: 0px;
+    }
+
+}
+
+
+@media screen and (max-width: 992px){
+    .alternate-slider-bg *[class*=col-]:nth-child(n+3){
+        margin-top: 30px;
+    }
+
+    .container_form_login form{
+        padding: 0;
+        padding-top: 35px;
+    }
+
+    .member_home_table{
+        margin-top: 25px;
+    }
+
+}
+
+
+
+@media screen and (max-width: 900px){
+    a.button.biggest{
+        padding-left: 45px;
+        padding-right: 45px;
+    }
+}
+
+
+@media screen and (max-width: 768px){
+    .container_freetrial{
+        text-align: center;
+    }
+    a.button.biggest{
+        margin-top: 30px;
+    }
+
+    .testimonial-quote{
+        padding-top: 10px;
+    }
+
+    .container_services_list_left_image{
+        margin-top: 0;
+    }
+
+    .services-list{
+        margin-top: 40px;
+    }
+
+    .container_recent_posts{
+        margin-top: 0;
+    }
+
+    .container_freetrial{
+        padding: 30px 0;
+    }
+
+    .container_clients *[class*=col-sm]{
+        text-align: center;
+    }
+
+    .nav_header{
+        margin-bottom: 35px;
+    }
+
+    .nav_header li{
+        display: block;
+    }
+
+    .nav_header li{
+        cursor: pointer;
+        padding: 10px 0;
+        border-bottom: 1px solid #0182c4;
+        margin-left: 0 !important;
+    }
+
+    .nav_header li:hover a{
+        color: #008fd5;
+    }
+
+    .nav_header li:hover{
+        padding-left: 10px;
+    }
+
+   .pre_header_right_column{
+       display: block;
+       margin-top: 15px;
+   }
+
+   .header{
+       text-align: center;
+   }
+
+   .alternate-slider-bg{
+       margin-top: 0;
+   }
+
+    .main-footer h4{
+        margin-bottom: 15px;
+    }
+
+    .main-footer *[class*=col-]{
+        margin-top: 45px;
+    }
+
+    .main-footer *[class*=col-]:first-child{
+        margin-top: 0px;
+    }
+
+    .what-sets-container .what-sets-column{
+        margin-top: 35px;
+    }
+
+    .account-locked-description{
+        margin-bottom: 10px;
+    }
+
+    .container-password-recovery *[class*=col-]:first-child{
+        display: block;
+        text-align: center;
+        margin-bottom: 20px;
+    }
+
+    .container_form_login .row-inline > *[class*="col-"]{
+        display: block;
+    }
+
+    .container_form{
+        padding: 45px 0 45px 0;
+    }
+
+    .members_info_left_column a{
+        display: inline-block;
+        float: right;
+    }
+
+    .members_info_right_column a{
+        display: none;
+    }
+
+    .members_info_left_column{
+        margin-bottom: 15px;
+    }
+
+    .chart_one{
+        height: 400px !important;
+    }
+
+    .box-view{
+        height: 350px !important;
+    }
+
+    .disclaimer-text{
+        padding: 20px;
+        text-align: justify;
+    }
+
+    .disclaimer-form{
+        padding: 0 20px;
+    }
+
+}
+
+@media screen and (min-width: 768px){
+    .container_clients *[class*=col-sm]{
+        text-align: center;
+    }
+
+    .navbar-collapse.collapse {
+        display: block !important;
+        height: auto !important;
+        padding-bottom: 0;
+        overflow: visible !important;
+    }
+
+    .navbar-header{
+        display: none;
+    }
+
+    .lower_header:hover{
+        background-color: rgba(255, 255, 255, .87);
+    }
+
+}
+
+
+@media screen and (max-width: 450px){
+    .pre_header a[title="ATM"] > img{
+        max-width: 230px;
+    }
+
+    .pre_header_right_column{
+        display: none;
+    }
+
+    .button-member-login-rubber{
+        display: block !important;
+    }
+
+
+    .pre_header a[title="ATM"] > img{
+        max-width: 100%;
+    }
+
+    .pre_header a[title="ATM"], .pre_header .navbar-header{
+        float: none;
+        margin-left: 0;
+    }
+
+    .navbar-toggle{
+        float: none;
+        margin-right: 0;
+    }
+
+    .container_form_login form input[type="submit"], .container_form form input[type="button"]{
+        width: auto;
+    }
+
+    .vertical_nav{
+        width: 100%;
+    }
+
+    .members_info label{
+        display: none;
+    }
+
+    .members_info_right_column .members_info_search_box{
+        display: block;
+    }
+
+    .members_info_search_box input{
+        margin-left: 0;
+        width: 100%;
+    }
+
+    .chart_one{
+        height: 350px !important;
+    }
+
+    .box-view{
+        height: 300px !important;
+    }
+
+
+}
+
+
+
+
+
+
+
