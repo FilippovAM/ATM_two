@@ -186,6 +186,10 @@
         padding: 0 20px;
     }
 
+    .navbar-header{
+        display: block;
+    }
+
 }
 
 @media screen and (min-width: 766px){
@@ -198,10 +202,6 @@
         height: auto !important;
         padding-bottom: 0;
         overflow: visible !important;
-    }
-
-    .navbar-header{
-        display: none !important;
     }
 
     .lower_header:hover{

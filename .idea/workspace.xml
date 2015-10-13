@@ -44,8 +44,8 @@
       <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/style/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="1441" column="1" selection-start-line="1441" selection-start-column="1" selection-end-line="1441" selection-end-column="1" />
+            <state vertical-scroll-proportion="-5.3448277">
+              <caret line="1402" column="21" selection-start-line="1402" selection-start-column="21" selection-end-line="1402" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -55,7 +55,7 @@
         <entry file="file://$PROJECT_DIR$/css/style/header.css">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="153" column="21" selection-start-line="153" selection-start-column="21" selection-end-line="153" selection-end-column="21" />
+              <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -101,23 +101,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.6">
-              <caret line="29" column="45" selection-start-line="29" selection-start-column="32" selection-end-line="29" selection-end-column="45" />
+            <state vertical-scroll-proportion="0.19653179">
+              <caret line="36" column="33" selection-start-line="36" selection-start-column="33" selection-end-line="36" selection-end-column="33" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="rubber.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="rubber.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/style/rubber.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="3.5297418">
-              <caret line="185" column="24" selection-start-line="185" selection-start-column="24" selection-end-line="185" selection-end-column="24" />
+            <state vertical-scroll-proportion="-17.827587">
+              <caret line="188" column="18" selection-start-line="188" selection-start-column="5" selection-end-line="188" selection-end-column="18" />
               <folding>
-                <marker date="1444750324657" expanded="true" signature="4513:4516" placeholder="{...}" />
+                <marker date="1444750584573" expanded="true" signature="4503:4506" placeholder="{...}" />
               </folding>
             </state>
           </provider>
@@ -156,13 +156,13 @@
         <option value="$PROJECT_DIR$/disclaimer-page.html" />
         <option value="$PROJECT_DIR$/css/style/core.css" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/css/style/header.css" />
         <option value="$PROJECT_DIR$/member-home-page.html" />
         <option value="$PROJECT_DIR$/js/ATM.js" />
         <option value="$PROJECT_DIR$/au-portfolio-page.html" />
         <option value="$PROJECT_DIR$/css/style/main.css" />
         <option value="$PROJECT_DIR$/login.html" />
         <option value="$PROJECT_DIR$/css/style/rubber.css" />
+        <option value="$PROJECT_DIR$/css/style/header.css" />
       </list>
     </option>
   </component>
@@ -679,26 +679,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/style/header.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="153" column="21" selection-start-line="153" selection-start-column="21" selection-end-line="153" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/ATM.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="365" column="64" selection-start-line="365" selection-start-column="64" selection-end-line="365" selection-end-column="64" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/style/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="1441" column="1" selection-start-line="1441" selection-start-column="1" selection-end-line="1441" selection-end-column="1" />
           <folding />
         </state>
       </provider>
@@ -727,21 +711,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/css/style/rubber.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.6">
-          <caret line="29" column="45" selection-start-line="29" selection-start-column="32" selection-end-line="29" selection-end-column="45" />
+        <state vertical-scroll-proportion="-17.827587">
+          <caret line="188" column="18" selection-start-line="188" selection-start-column="5" selection-end-line="188" selection-end-column="18" />
+          <folding>
+            <marker date="1444750584573" expanded="true" signature="4503:4506" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.3448277">
+          <caret line="1402" column="21" selection-start-line="1402" selection-start-column="21" selection-end-line="1402" selection-end-column="21" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/style/rubber.css">
+    <entry file="file://$PROJECT_DIR$/css/style/header.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="3.5297418">
-          <caret line="185" column="24" selection-start-line="185" selection-start-column="24" selection-end-line="185" selection-end-column="24" />
-          <folding>
-            <marker date="1444750324657" expanded="true" signature="4513:4516" placeholder="{...}" />
-          </folding>
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.19653179">
+          <caret line="36" column="33" selection-start-line="36" selection-start-column="33" selection-end-line="36" selection-end-column="33" />
+          <folding />
         </state>
       </provider>
     </entry>

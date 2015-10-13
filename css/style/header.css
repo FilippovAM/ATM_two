@@ -31,6 +31,10 @@
     float: left;
 }
 
+.navbar-header{
+    display: none;
+}
+
 
 .pre_header_right_column a:hover .icon-facebook{
     color: #0182c4;
