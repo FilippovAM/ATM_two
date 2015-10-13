@@ -114,10 +114,10 @@
       <file leaf-file-name="rubber.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/style/rubber.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.49607182">
-              <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+            <state vertical-scroll-proportion="3.5297418">
+              <caret line="185" column="24" selection-start-line="185" selection-start-column="24" selection-end-line="185" selection-end-column="24" />
               <folding>
-                <marker date="1444749791900" expanded="true" signature="4513:4516" placeholder="{...}" />
+                <marker date="1444750324657" expanded="true" signature="4513:4516" placeholder="{...}" />
               </folding>
             </state>
           </provider>
@@ -737,10 +737,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style/rubber.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.49607182">
-          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+        <state vertical-scroll-proportion="3.5297418">
+          <caret line="185" column="24" selection-start-line="185" selection-start-column="24" selection-end-line="185" selection-end-column="24" />
           <folding>
-            <marker date="1444749791900" expanded="true" signature="4513:4516" placeholder="{...}" />
+            <marker date="1444750324657" expanded="true" signature="4513:4516" placeholder="{...}" />
           </folding>
         </state>
       </provider>

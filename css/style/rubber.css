@@ -54,7 +54,7 @@
 }
 
 
-@media screen and (max-width: 768px){
+@media screen and (max-width: 767px){
     .container_freetrial{
         text-align: center;
     }
@@ -188,7 +188,7 @@
 
 }
 
-@media screen and (min-width: 769px){
+@media screen and (min-width: 766px){
     .container_clients *[class*=col-sm]{
         text-align: center;
     }
