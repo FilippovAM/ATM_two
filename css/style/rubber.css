@@ -188,7 +188,7 @@
 
 }
 
-@media screen and (min-width: 768px){
+@media screen and (min-width: 769px){
     .container_clients *[class*=col-sm]{
         text-align: center;
     }
@@ -201,7 +201,7 @@
     }
 
     .navbar-header{
-        display: none;
+        display: none !important;
     }
 
     .lower_header:hover{
